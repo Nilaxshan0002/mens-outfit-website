@@ -1,0 +1,7 @@
+# Mens Outfit roadmap
+
+1. **Storefront and shopping experience — complete.** Branded responsive home page, generated campaign photography, six-piece sample collection, search, category filters, price sorting, saved favorites, product detail views, size and color selection, and a shopping bag with quantity controls. Fit guidance, brand story, shipping information, and preview disclosures complete the browsing experience.
+2. **Real catalog and inventory.** Confirm the actual products, currency, pricing, size charts, product photography, and launch policies. Replace the sample module with a Netlify Database catalog, variants, inventory, and an owner management screen. Store uploaded assets in Netlify Blobs.
+3. **Customer accounts.** Add Netlify Identity and connect customer profiles, persistent favorites, and shopping bags to the database, with guest-to-account bag merging.
+4. **Checkout and orders.** Configure payment processing, validate authoritative prices and stock, calculate shipping and taxes, and verify payments through signed webhooks. Add order records, confirmation screens, customer order history, and fulfillment controls.
+5. **Launch readiness.** Publish approved shipping, return, privacy, and contact information. Add Netlify Forms for customer support and optional email subscriptions. Verify keyboard and screen-reader use, mobile layouts, image performance, and the complete order and refund lifecycle before enabling sales.
